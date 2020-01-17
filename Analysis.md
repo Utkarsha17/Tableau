@@ -24,3 +24,9 @@ Some of the interesting questions (tasks) which can be performed on this dataset
 1. First I will try to understand data. I will identify which content is available on Netflix and distribution of the content. 
 
 ![](https://github.com/Utkarsha17/Tableau/blob/master/PieChart.PNG)
+
+This shows Movies is popular content on Netflix
+
+2. Now lets check popularity of genres on Netflix, for this I am using Heat map.
+
+![](https://github.com/Utkarsha17/Tableau/blob/master/Popularity Genre.PNG)
