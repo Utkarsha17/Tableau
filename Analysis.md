@@ -18,3 +18,9 @@ Some of the interesting questions (tasks) which can be performed on this dataset
 3. Countries with popular content
 
 4. Is Netflix has increasingly focusing on TV rather than movies in recent years.
+
+### Analysis
+
+1. First I will try to understand data. I will identify which content is available on Netflix and distribution of the content. 
+
+![](https://github.com/Utkarsha17/Tableau/PieChart.PNG)<!-- -->
