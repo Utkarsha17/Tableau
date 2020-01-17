@@ -29,4 +29,4 @@ This shows Movies is popular content on Netflix
 
 2. Now lets check popularity of genres on Netflix, for this I am using Heat map.
 
-![](https://github.com/Utkarsha17/Tableau/blob/master/Popularity Genre.PNG)
+![](https://github.com/Utkarsha17/Tableau/blob/master/Popularity_Genre.PNG)
