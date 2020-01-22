@@ -35,3 +35,6 @@ This shows Movies is popular content on Netflix
 
 ![](https://github.com/Utkarsha17/Tableau/blob/master/top_10.PNG)
 
+4. Global Mapping of content 
+
+![](https://github.com/Utkarsha17/Tableau/blob/master/Global_map.PNG)
