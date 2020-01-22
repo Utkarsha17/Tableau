@@ -38,3 +38,11 @@ This shows Movies is popular content on Netflix
 4. Global Mapping of content 
 
 ![](https://github.com/Utkarsha17/Tableau/blob/master/Global_map.PNG)
+
+5. Now see yearly trend of streaming Data
+
+![](https://github.com/Utkarsha17/Tableau/blob/master/Yearly_trend.PNG)
+
+6. Now check yearly trend of streaming data for USA
+
+![](https://github.com/Utkarsha17/Tableau/blob/master/Yearly_USA_trend.PNG)
