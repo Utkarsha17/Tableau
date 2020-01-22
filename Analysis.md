@@ -30,3 +30,7 @@ This shows Movies is popular content on Netflix
 2. Now lets check popularity of genres on Netflix, for this I am using Heat map.
 
 ![](https://github.com/Utkarsha17/Tableau/blob/master/Popularity_Genre.PNG)
+
+3. Now look at top 10 Movies and shows around the world
+
+![](https://github.com/Utkarsha17/Tableau/blob/master/top-10.PNG)
