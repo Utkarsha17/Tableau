@@ -31,18 +31,27 @@ This shows Movies is popular content on Netflix
 
 ![](https://github.com/Utkarsha17/Tableau/blob/master/Popularity_Genre.PNG)
 
+This mapping shows documentaries and stand up comedy are popular genres streamed over the years across the globe.
+
 3. Now look at top 10 Movies and shows around the world
 
 ![](https://github.com/Utkarsha17/Tableau/blob/master/top_10.PNG)
+
 
 4. Global Mapping of content 
 
 ![](https://github.com/Utkarsha17/Tableau/blob/master/Global_map.PNG)
 
+This global mapping shows that most content was streamed in United States and India. 
+
 5. Now see yearly trend of streaming Data
 
 ![](https://github.com/Utkarsha17/Tableau/blob/master/Yearly_trend.PNG)
 
+This graph shows that streaming of data has been increasing surprisingly since 2015
+
 6. Now check yearly trend of streaming data for USA
 
 ![](https://github.com/Utkarsha17/Tableau/blob/master/Yearly_USA_trend.PNG)
+
+Also for United States streaming of data has increased since 2014 
